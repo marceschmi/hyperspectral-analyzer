@@ -11,6 +11,7 @@ You should have received a copy of the GNU Affero General Public License along w
 A programme to visualise and analyse hyperspetral data.
 
 --------------------------------------------------------------------------
+For this software to function fully, the following Matlab Tollboxes must be installed.
 Used Toolboxes:
 
 - Parallel Computing Toolbox
@@ -21,8 +22,8 @@ Used Toolboxes:
 - Image Processing Toolbox
 
 --------------------------------------------------------------------------
+For additional features, the following functions must be included in the program folder.
 Used functions:
 
-For full functionality, the following functions must be downloaded:
 - mat2clip v.1.1 by Jiro Doke (https://de.mathworks.com/matlabcentral/fileexchange/8559-mat2clip?s_tid=srchtitle)
 - copyUIAxes v. 3.0 by Adam Danz (https://de.mathworks.com/matlabcentral/fileexchange/73103-copyuiaxes?s_tid=srchtitle) 
